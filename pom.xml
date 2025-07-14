@@ -8,11 +8,11 @@
         <version>3.3.3</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
-    <groupId>com.egov</groupId>
-    <artifactId>match-service</artifactId>
+    <groupId>com.ecomm</groupId>
+    <artifactId>ecomm-orderprocessing-service</artifactId>
     <version>dev-1</version>
-    <name>match-service</name>
-    <description>match-service</description>
+    <name>ecomm-orderprocessing-service</name>
+    <description>orderprocessing-service</description>
     <url/>
     <licenses>
         <license/>

@@ -1,4 +1,4 @@
-package com.egov.matchservice;
+package com.ecomm.orderservice;
 
 import io.github.resilience4j.circuitbreaker.CircuitBreakerConfig;
 import io.github.resilience4j.retry.RetryConfig;
